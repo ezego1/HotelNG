@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb://localhost/hotel_ng",
+    "jwtSecret": "hng_coding_assignment"
+}
